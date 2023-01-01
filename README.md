@@ -6,7 +6,7 @@
 + Nguyễn Anh Đắc - 19133020
 + Nguyễn Thanh Tân Kỷ - 19133031
 
-### Descroption
+### Description
 - Đây là một ứng dụng của Federated Learning vào mô hình học máy. 
 - Ứng dụng thuật toán CNN kết hợp triển khia Federated Learning vào mô hình để thực hiện nhận dạng chữ số viết tay từ tập diệu MNIST.
 - MNIST: là một bộ dữ liệu bao gồm các hình ảnh viết tay được chuẩn hóa và cắt ở giữa. Nó có hơn 60.000 hình ảnh đào tạo và 10.000 hình ảnh thử nghiệm. Đây là một trong những bộ dữ liệu được sử dụng nhiều nhất cho mục đích học tập và thử nghiệm. Để tải và sử dụng tập dữ liệu, chúng ta có thể nhập bằng cú pháp bên dưới sau khi cài đặt gói torchvision:
