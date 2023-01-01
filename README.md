@@ -29,3 +29,5 @@
 > python Recognize_number.py
 - select image and see the result.
 
+#### References
+- Shaoxiong Ji. (2018, March 30). A PyTorch Implementation of Federated Learning. Zenodo. http://doi.org/10.5281/zenodo.4321561
