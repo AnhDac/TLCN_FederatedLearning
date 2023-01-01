@@ -37,8 +37,8 @@ if __name__ == '__main__':
         exit('Error: unrecognized dataset')
     img_size = dataset_train[0][0].shape
 # thêm
-    local_eps=[3]#[5,10]
-    local_bss=[10]#[10,20]
+    local_eps=[5,10]
+    local_bss=[10,20]
     net_glob_best=CNNMnist(args=args).to(args.device)
     acc_best=0
     args_best=copy.deepcopy(args)
