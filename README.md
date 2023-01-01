@@ -1,9 +1,11 @@
 ## Federated Learning Application
+
+- Link Word and Powerpoint Report: https://drive.google.com/drive/folders/14RbzLmWIDp3hEvh_jj1UHTU4fWykglhs?usp=sharing
+
 ### Student Made:
 + Nguyễn Anh Đắc - 19133020
 + Nguyễn Thanh Tân Kỷ - 19133031
 
-- Link Word and Powerpoint Report: https://drive.google.com/drive/folders/14RbzLmWIDp3hEvh_jj1UHTU4fWykglhs?usp=sharing
 ### Descroption
 - Đây là một ứng dụng của Federated Learning vào mô hình học máy. 
 - Ứng dụng thuật toán CNN kết hợp triển khia Federated Learning vào mô hình để thực hiện nhận dạng chữ số viết tay từ tập diệu MNIST.
