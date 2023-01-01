@@ -21,3 +21,9 @@
 
 #### Run with a special version python (Ex: 3.10):  
 > py -3.10 main_fed.py --dataset mnist --iid --num_channels 1 --model cnn --epochs 20 --gpu 0 --local_ep 10 --local_bs 20 --num_users 50 
+
+- After run, we save best model with name + information of some params, it have type: "namefile".pt. This file be use for recognize image in my application basic.
+### Run application basic
+> python Recognize_number.py
+- select image and see the result.
+
