@@ -1,6 +1,6 @@
 ## Federated Learning Application
 
-- Link Word and Powerpoint Report: https://drive.google.com/drive/folders/14RbzLmWIDp3hEvh_jj1UHTU4fWykglhs?usp=sharing
+- Link Drive Report: https://drive.google.com/drive/folders/14RbzLmWIDp3hEvh_jj1UHTU4fWykglhs?usp=sharing
 
 ### Student Made:
 + Nguyễn Anh Đắc - 19133020
